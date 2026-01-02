@@ -3,6 +3,7 @@ numpy
 matplotlib
 seaborn
 keras
+streamlit
 tensorflow
 scikit-learn
 pytorch
